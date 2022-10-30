@@ -1,0 +1,22 @@
+{
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "newLinkFormat": "absolute",
+  "showLineNumber": true,
+  "showFrontmatter": true,
+  "spellcheck": false,
+  "attachmentFolderPath": "📂 Files",
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false,
+  "foldIndent": true,
+  "showIndentGuide": true,
+  "lineWrap": true,
+  "foldHeading": true,
+  "autoPairBrackets": true,
+  "autoPairMarkdown": true,
+  "smartIndentList": true,
+  "strictLineBreaks": true,
+  "spellcheckLanguages": [
+    "pt-BR"
+  ]
+}

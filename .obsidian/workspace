@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "f3c19b6025452acb",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f61798619cc5b1f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettel's/1 - Fleeting Notes/ASP.NET Core + JWT - Renato Groffe.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ecfdc4c471d61c95",
+    "type": "split",
+    "children": [
+      {
+        "id": "1303d48f3c5afdee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ee9ce29a4bc99d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "71238f84db842ef4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f5b58c33751715ba",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 465,
+    "collapsed": true
+  },
+  "right": {
+    "id": "d7cf15385b80dd96",
+    "type": "split",
+    "children": [
+      {
+        "id": "4317fa42c3f41b58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a8237e634a89424",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Zettel's/1 - Fleeting Notes/ASP.NET Core + JWT - Renato Groffe.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3983c38a2ad45500",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Zettel's/1 - Fleeting Notes/ASP.NET Core + JWT - Renato Groffe.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9625cd36049499fb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9b489282ee034bf2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Zettel's/1 - Fleeting Notes/ASP.NET Core + JWT - Renato Groffe.md"
+              }
+            }
+          },
+          {
+            "id": "a1897737f1832225",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "de957000ecdb3bcd",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4f61798619cc5b1f",
+  "lastOpenFiles": [
+    "Files/ASP.NET Core + JWT - Renato Groffe.pdf",
+    "Zettel's/1 - Fleeting Notes/ASP.NET Core + JWT - Renato Groffe.md",
+    "Templates/Map of Content.md",
+    "Templates/Literature Notes Template.md",
+    "Templates/Fleetifng Note Template.md",
+    "Templates/Permanent Note Template.md",
+    "Zettel's/1 - Fleeting Notes/Treinamentos/Cursos Dev.IO/2 - Dominando o ASP.NET MVC Core/Demo - Por dentro das Controllers.md",
+    "Zettel's/1 - Fleeting Notes/Treinamentos/Cursos Dev.IO/2 - Dominando o ASP.NET MVC Core/HTTP - Verbos Básicos.md",
+    "Zettel's/1 - Fleeting Notes/Treinamentos/Cursos Dev.IO/2 - Dominando o ASP.NET MVC Core/Rotas.md",
+    "Zettel's/1 - Fleeting Notes/Treinamentos/Cursos Dev.IO/2 - Dominando o ASP.NET MVC Core/Padrão MVC.md"
+  ]
+}

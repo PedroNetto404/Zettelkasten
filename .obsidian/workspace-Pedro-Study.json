@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "f3c19b6025452acb",
+    "type": "split",
+    "children": [
+      {
+        "id": "55a55fd143212989",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b200801b0ed8db8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/Aula ingles 27.10.22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ecfdc4c471d61c95",
+    "type": "split",
+    "children": [
+      {
+        "id": "1303d48f3c5afdee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ee9ce29a4bc99d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "71238f84db842ef4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f5b58c33751715ba",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 335.5
+  },
+  "right": {
+    "id": "d7cf15385b80dd96",
+    "type": "split",
+    "children": [
+      {
+        "id": "4317fa42c3f41b58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a8237e634a89424",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/Aula ingles 27.10.22.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3983c38a2ad45500",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/Aula ingles 27.10.22.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9625cd36049499fb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9b489282ee034bf2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/Aula ingles 27.10.22.md"
+              }
+            }
+          },
+          {
+            "id": "a1897737f1832225",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "de957000ecdb3bcd",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "b200801b0ed8db8e",
+  "lastOpenFiles": [
+    "🗃️  Zettel's/📝 Literature Notes/Curso 1 - Iniciando com ASP.NET Core.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Aula ingles 27.10.22.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Demo 1ª Aplicação ASP.NET Core.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Demo - Por dentro das Controllers.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Aula 24.10.2022 - Geraldo - Banco Dado.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Aula 22.10 Treinamento CShap.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Cursos Unicamp Cálculo I.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Drawing 2022-10-23 14.50.13.excalidraw.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Untitled.md",
+    "🗃️  Zettel's/Untitled Kanban.md"
+  ]
+}
