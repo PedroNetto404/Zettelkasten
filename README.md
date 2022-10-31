@@ -1,4 +1,4 @@
-# Bem vindo ao minha caixa de anotações!
+# Bem vindo a minha caixa de anotações!
 
 ## O que é? 
 + Zettelkasten é uma palavra alemã que representa basicamente "caixa" (kasten) de "notas" (zettel). Já o método zettelkasten foi desenvolvido por Niklas Luhmann, sociólogo e pensador alemão, que em sua vida escreveu mais de 70 livros e quase 400 artigos acadêmicos. Sua interessante carreira em vida foi constituída por conseguir utilizar o método de anotações inteligentes, organizar ideias e facilitar sua procura. 
