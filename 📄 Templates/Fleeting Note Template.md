@@ -1,8 +1,9 @@
 **Meta data**
-Note-type:: #FleetingNote 
-Note-Status:: #LiteratureNotePending 
+Note-type:: #zettel/Fleeting  
+Note-Status:: #Zettel/Status/LiteraturePending 
 Tags:: 
 Created:: {{date}} {{time}}
+
 # {{title}}
 
 

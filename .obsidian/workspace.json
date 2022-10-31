@@ -11,11 +11,9 @@
             "id": "c50744305603f546",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "🗃️  Zettel's/💡 Fleeting Notes/Zettelkasten Method.md",
-                "mode": "source",
-                "source": false
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/Aula cálculo 31.10.2022.md"
               }
             }
           }
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️  Zettel's/💡 Fleeting Notes/Zettelkasten Method.md",
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/Aula cálculo 31.10.2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️  Zettel's/💡 Fleeting Notes/Zettelkasten Method.md",
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/Aula cálculo 31.10.2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️  Zettel's/💡 Fleeting Notes/Zettelkasten Method.md"
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/Aula cálculo 31.10.2022.md"
               }
             }
           },
@@ -145,9 +143,17 @@
               "type": "dictionary-view",
               "state": {}
             }
+          },
+          {
+            "id": "e9fa9f926f3e6d98",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -156,15 +162,15 @@
   },
   "active": "c50744305603f546",
   "lastOpenFiles": [
+    "🗃️  Zettel's/💡 Fleeting Notes/O que é um balancete de verificação e como é feito?.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Modelagem de Domínios Ricos - Eduardo Pires.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Solid na prática.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Aula cálculo 31.10.2022.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Contabilidade aula 31.10.2022.md",
+    "📄 Templates/Fleeting Note Template.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Zettelkasten Method.md",
     "README.md",
     "🗃️  Zettel's/💡 Fleeting Notes/Introdução  à Ciência da Computação.md",
-    "🗃️  Zettel's/💡 Fleeting Notes/SOLID - Eduardo Pires.md",
-    "🗃️  Zettel's/💡 Fleeting Notes/Drawing 2022-10-04 14.47.42.excalidraw.md",
-    "🗃️  Zettel's/💡 Fleeting Notes/Drawing 2022-10-23 14.50.13.excalidraw.md",
-    "🗃️  Zettel's/💡 Fleeting Notes/Aula ingles 27.10.22.md",
-    "🗃️  Zettel's/💡 Fleeting Notes/distribution.md",
-    "🗃️  Zettel's/💡 Fleeting Notes/Arquivos e FileGroups.md",
-    "🗃️  Zettel's/💡 Fleeting Notes/Restrições.md",
-    "🗃️  Zettel's/💡 Fleeting Notes/Replicação de Dados.md"
+    "🗃️  Zettel's/💡 Fleeting Notes/SOLID - Eduardo Pires.md"
   ]
 }
