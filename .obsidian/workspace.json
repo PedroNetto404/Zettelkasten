@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️  Zettel's/💡 Fleeting Notes/Introdução  à Ciência da Computação.md",
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/Zettelkasten Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️  Zettel's/💡 Fleeting Notes/Introdução  à Ciência da Computação.md",
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/Zettelkasten Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️  Zettel's/💡 Fleeting Notes/Introdução  à Ciência da Computação.md",
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/Zettelkasten Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️  Zettel's/💡 Fleeting Notes/Introdução  à Ciência da Computação.md"
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/Zettelkasten Method.md"
               }
             }
           },
@@ -155,8 +154,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "71238f84db842ef4",
+  "active": "c50744305603f546",
   "lastOpenFiles": [
+    "README.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Introdução  à Ciência da Computação.md",
     "🗃️  Zettel's/💡 Fleeting Notes/SOLID - Eduardo Pires.md",
     "🗃️  Zettel's/💡 Fleeting Notes/Drawing 2022-10-04 14.47.42.excalidraw.md",
     "🗃️  Zettel's/💡 Fleeting Notes/Drawing 2022-10-23 14.50.13.excalidraw.md",
@@ -164,8 +165,6 @@
     "🗃️  Zettel's/💡 Fleeting Notes/distribution.md",
     "🗃️  Zettel's/💡 Fleeting Notes/Arquivos e FileGroups.md",
     "🗃️  Zettel's/💡 Fleeting Notes/Restrições.md",
-    "🗃️  Zettel's/💡 Fleeting Notes/Replicação de Dados.md",
-    "🗃️  Zettel's/💡 Fleeting Notes/Modelagem de Domínios Ricos - Eduardo Pires.md",
-    "🗃️  Zettel's/💡 Fleeting Notes/Aula William CShap.md"
+    "🗃️  Zettel's/💡 Fleeting Notes/Replicação de Dados.md"
   ]
 }
