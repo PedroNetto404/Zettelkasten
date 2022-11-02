@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "80ce63c0384e2659",
+        "id": "05f31fd702285769",
         "type": "tabs",
         "children": [
           {
-            "id": "e3f1d4c1f6e4b7c1",
+            "id": "f94a5b7200a08df1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️  Zettel's/💡 Fleeting Notes/Modelagem de Domínios Ricos - Eduardo Pires.md",
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/Continuação módulo Views.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"🗃️  Zettel's/💡 Fleeting Notes\" tag:#LiteratureNotePending",
+                "query": "tag:#LiteratureNotePending",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️  Zettel's/💡 Fleeting Notes/Modelagem de Domínios Ricos - Eduardo Pires.md",
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/Continuação módulo Views.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️  Zettel's/💡 Fleeting Notes/Modelagem de Domínios Ricos - Eduardo Pires.md",
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/Continuação módulo Views.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️  Zettel's/💡 Fleeting Notes/Modelagem de Domínios Ricos - Eduardo Pires.md"
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/Continuação módulo Views.md"
               }
             }
           },
@@ -155,17 +155,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7ee9ce29a4bc99d6",
+  "active": "f94a5b7200a08df1",
   "lastOpenFiles": [
-    "📄 Templates/Day Planner Template.md",
-    "📄 Templates/Permanent Note Template.md",
-    "📄 Templates/Literature Notes Template.md",
-    "📄 Templates/Fleeting Note Template.md",
-    "🗃️  Zettel's/💡 Fleeting Notes/Modelagem de Domínios Ricos - Eduardo Pires.md",
-    "🗃️  Zettel's/📝 Literature Notes/Aula wiliam 29.10.2022.md",
-    "🗃️  Zettel's/💡 Fleeting Notes/Aula William CShap.md",
-    "🗃️  Zettel's/📝 Literature Notes/Solid.md",
-    "🗃️  Zettel's/📝 Literature Notes/Orientação a objetos - Livro.md",
-    "🗃️  Zettel's/💡 Fleeting Notes/Tipos de Dados.md"
+    "🗃️  Zettel's/💡 Fleeting Notes/Continuação módulo Views.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Aula 24.10.2022 - Geraldo - Banco Dado.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Aula 22.10 Treinamento CShap.md",
+    "🗃️  Zettel's/📝 Literature Notes/Aula SQL.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Aula Sql 31.10.22.md",
+    "🗃️  Zettel's/README.md",
+    "🗃️  Zettel's/Zettel Dashboard.md",
+    "Untitled Kanban.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Tipos de dados para data e hora.md",
+    "Fleeting.md"
   ]
 }
