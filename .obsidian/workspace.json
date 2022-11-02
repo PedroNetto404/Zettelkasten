@@ -11,7 +11,7 @@
             "id": "f94a5b7200a08df1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
                 "file": "🗃️  Zettel's/💡 Fleeting Notes/Continuação módulo Views.md",
                 "mode": "source",
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5,
-    "collapsed": true
+    "width": 335.5
   },
   "right": {
     "id": "d7cf15385b80dd96",
@@ -146,9 +145,17 @@
               "type": "dictionary-view",
               "state": {}
             }
+          },
+          {
+            "id": "e9fa9f926f3e6d98",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
