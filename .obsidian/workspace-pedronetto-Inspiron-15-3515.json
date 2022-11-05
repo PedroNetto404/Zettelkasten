@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "f3c19b6025452acb",
+    "type": "split",
+    "children": [
+      {
+        "id": "395c932d91dc9732",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c50744305603f546",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/Aula cálculo 31.10.2022.md"
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ecfdc4c471d61c95",
+    "type": "split",
+    "children": [
+      {
+        "id": "1303d48f3c5afdee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ee9ce29a4bc99d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "71238f84db842ef4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#LiteratureNotePending",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f5b58c33751715ba",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 335.5
+  },
+  "right": {
+    "id": "d7cf15385b80dd96",
+    "type": "split",
+    "children": [
+      {
+        "id": "4317fa42c3f41b58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a8237e634a89424",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/Aula cálculo 31.10.2022.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3983c38a2ad45500",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/Aula cálculo 31.10.2022.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9625cd36049499fb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9b489282ee034bf2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/Aula cálculo 31.10.2022.md"
+              }
+            }
+          },
+          {
+            "id": "a1897737f1832225",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "de957000ecdb3bcd",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "e9fa9f926f3e6d98",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c50744305603f546",
+  "lastOpenFiles": [
+    "🗃️  Zettel's/💡 Fleeting Notes/O que é um balancete de verificação e como é feito?.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Modelagem de Domínios Ricos - Eduardo Pires.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Solid na prática.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Aula cálculo 31.10.2022.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Contabilidade aula 31.10.2022.md",
+    "📄 Templates/Fleeting Note Template.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Zettelkasten Method.md",
+    "README.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Introdução  à Ciência da Computação.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/SOLID - Eduardo Pires.md"
+  ]
+}

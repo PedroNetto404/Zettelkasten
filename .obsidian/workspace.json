@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f94a5b7200a08df1",
+            "id": "5044ba9e82cc9f70",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "🗃️  Zettel's/💡 Fleeting Notes/Continuação módulo Views.md",
+                "file": "📅 Daily/05-11-2022.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +39,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️  Zettel's/💡 Fleeting Notes/Continuação módulo Views.md",
+                "file": "📅 Daily/05-11-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️  Zettel's/💡 Fleeting Notes/Continuação módulo Views.md",
+                "file": "📅 Daily/05-11-2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️  Zettel's/💡 Fleeting Notes/Continuação módulo Views.md"
+                "file": "📅 Daily/05-11-2022.md"
               }
             }
           },
@@ -162,17 +162,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f94a5b7200a08df1",
+  "active": "5044ba9e82cc9f70",
   "lastOpenFiles": [
-    "🗃️  Zettel's/💡 Fleeting Notes/Continuação módulo Views.md",
-    "🗃️  Zettel's/💡 Fleeting Notes/Aula 24.10.2022 - Geraldo - Banco Dado.md",
-    "🗃️  Zettel's/💡 Fleeting Notes/Aula 22.10 Treinamento CShap.md",
-    "🗃️  Zettel's/📝 Literature Notes/Aula SQL.md",
-    "🗃️  Zettel's/💡 Fleeting Notes/Aula Sql 31.10.22.md",
-    "🗃️  Zettel's/README.md",
-    "🗃️  Zettel's/Zettel Dashboard.md",
-    "Untitled Kanban.md",
-    "🗃️  Zettel's/💡 Fleeting Notes/Tipos de dados para data e hora.md",
-    "Fleeting.md"
+    "📅 Daily/04-11-2022.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/10 - Configurações no ASP.NET Core.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/ASP.NET Filtros.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Filtros em ASP.NET.pdf",
+    "📅 Daily/03-11-2022.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/9 - Segurança no ASP.NET Identity.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Contabilidade aula 31.10.2022-pedronetto-Inspiron-15-3515.md",
+    "📄 Templates/Day Planner Template.md",
+    "📄 Templates/Fleeting Note Template.md",
+    "📄 Templates/Permanent Note Template.md"
   ]
 }
