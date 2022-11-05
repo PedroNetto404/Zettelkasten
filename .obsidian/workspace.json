@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5044ba9e82cc9f70",
+            "id": "ab16e4be906d5caa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📅 Daily/05-11-2022.md",
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/Aula Treinamento Sharp 05.11.22.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 335.5,
+    "collapsed": true
   },
   "right": {
     "id": "d7cf15385b80dd96",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📅 Daily/05-11-2022.md",
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/Aula Treinamento Sharp 05.11.22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📅 Daily/05-11-2022.md",
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/Aula Treinamento Sharp 05.11.22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📅 Daily/05-11-2022.md"
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/Aula Treinamento Sharp 05.11.22.md"
               }
             }
           },
@@ -162,8 +163,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5044ba9e82cc9f70",
+  "active": "ab16e4be906d5caa",
   "lastOpenFiles": [
+    "📅 Daily/05-11-2022.md",
     "📅 Daily/04-11-2022.md",
     "🗃️  Zettel's/💡 Fleeting Notes/10 - Configurações no ASP.NET Core.md",
     "🗃️  Zettel's/💡 Fleeting Notes/ASP.NET Filtros.md",
@@ -172,7 +174,6 @@
     "🗃️  Zettel's/💡 Fleeting Notes/9 - Segurança no ASP.NET Identity.md",
     "🗃️  Zettel's/💡 Fleeting Notes/Contabilidade aula 31.10.2022-pedronetto-Inspiron-15-3515.md",
     "📄 Templates/Day Planner Template.md",
-    "📄 Templates/Fleeting Note Template.md",
-    "📄 Templates/Permanent Note Template.md"
+    "📄 Templates/Fleeting Note Template.md"
   ]
 }
