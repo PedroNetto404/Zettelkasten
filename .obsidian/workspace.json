@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e8b3004fb3438228",
+            "id": "2d838a889491d0c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️  Zettel's/💡 Fleeting Notes/Agregação, visualização e agrupamento.md",
+                "file": "📅 Daily/10-11-2022.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 202.5,
+    "collapsed": true
   },
   "right": {
     "id": "d7cf15385b80dd96",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️  Zettel's/💡 Fleeting Notes/Agregação, visualização e agrupamento.md",
+                "file": "📅 Daily/10-11-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️  Zettel's/💡 Fleeting Notes/Agregação, visualização e agrupamento.md",
+                "file": "📅 Daily/10-11-2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️  Zettel's/💡 Fleeting Notes/Agregação, visualização e agrupamento.md"
+                "file": "📅 Daily/10-11-2022.md"
               }
             }
           },
@@ -162,17 +163,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e8b3004fb3438228",
+  "active": "2d838a889491d0c5",
   "lastOpenFiles": [
+    "📅 Daily/10-11-2022.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Curso de SQL Dev.IO M2.md",
+    "📅 Daily/09-11-2022.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Agregação, visualização e agrupamento.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/ExAulaEnunciado.pdf",
+    "🗃️  Zettel's/💡 Fleeting Notes/Aula SQL.md",
     "🗃️  Zettel's/💡 Fleeting Notes/Desenvolvimento projeto final.md",
     "📅 Daily/07-11-2022.md",
     "🗃️  Zettel's/💡 Fleeting Notes/Aula 03.10.2022 Inglês II.md",
-    "📄 Templates/Fleeting Note Template.md",
-    "📄 Templates/Fleeting Note Template-pedronetto-Inspiron-15-3515.md",
-    "🗃️  Zettel's/💡 Fleeting Notes/Aula Sql 31.10.22.md",
-    "🗃️  Zettel's/💡 Fleeting Notes/Introdução  à Ciência da Computação.md",
-    "🗃️  Zettel's/💡 Fleeting Notes/Contabilidade aula 31.10.2022.md",
-    "🗃️  Zettel's/💡 Fleeting Notes/Aula cálculo 31.10.2022.md",
-    "🗃️  Zettel's/💡 Fleeting Notes/Aula cálculo 31.10.2022-pedronetto-Inspiron-15-3515.md"
+    "📄 Templates/Fleeting Note Template.md"
   ]
 }
