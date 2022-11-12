@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2d838a889491d0c5",
+            "id": "fe9c0515fb46a6d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📅 Daily/10-11-2022.md",
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/Orientação a objetos e SOLID para ninjas.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202.5,
-    "collapsed": true
+    "width": 408.5
   },
   "right": {
     "id": "d7cf15385b80dd96",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📅 Daily/10-11-2022.md",
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/Orientação a objetos e SOLID para ninjas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📅 Daily/10-11-2022.md",
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/Orientação a objetos e SOLID para ninjas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📅 Daily/10-11-2022.md"
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/Orientação a objetos e SOLID para ninjas.md"
               }
             }
           },
@@ -163,17 +162,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2d838a889491d0c5",
+  "active": "fe9c0515fb46a6d7",
   "lastOpenFiles": [
+    "🗃️  Zettel's/💡 Fleeting Notes/Um tour por CSharp - Visão Geral.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Orientação a objetos e SOLID para ninjas.md",
+    "Excalidraw/Drawing 2022-11-11 21.00.16.excalidraw.md",
+    "Excalidraw/Drawing 2022-11-11 21.00.15.excalidraw.md",
+    "📅 Daily/11-11-2022.md",
     "📅 Daily/10-11-2022.md",
     "🗃️  Zettel's/💡 Fleeting Notes/Curso de SQL Dev.IO M2.md",
     "📅 Daily/09-11-2022.md",
     "🗃️  Zettel's/💡 Fleeting Notes/Agregação, visualização e agrupamento.md",
-    "🗃️  Zettel's/💡 Fleeting Notes/ExAulaEnunciado.pdf",
-    "🗃️  Zettel's/💡 Fleeting Notes/Aula SQL.md",
-    "🗃️  Zettel's/💡 Fleeting Notes/Desenvolvimento projeto final.md",
-    "📅 Daily/07-11-2022.md",
-    "🗃️  Zettel's/💡 Fleeting Notes/Aula 03.10.2022 Inglês II.md",
-    "📄 Templates/Fleeting Note Template.md"
+    "🗃️  Zettel's/💡 Fleeting Notes/ExAulaEnunciado.pdf"
   ]
 }
