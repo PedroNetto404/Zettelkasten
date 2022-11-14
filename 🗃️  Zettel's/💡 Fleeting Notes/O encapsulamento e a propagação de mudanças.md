@@ -2,12 +2,14 @@
 Note-type:: #Zettel/Fleeting
 Note-Status:: #Zettel/Status/Pending 
 Tags:: 
-Created:: 13-11-2022 13:24
+Created-date:: 13-11-2022 
+Created-time:: 13:24
+Literature-note::[[🗃️  Zettel's/📝 Literature Notes/O encapsulamento e a propagação de mudanças]], [[🗃️  Zettel's/📝 Literature Notes/Herança, composição e LSP]]
 
 # O encapsulamento e a propagação de mudanças
-+ Encapsulamento é o nome que damos a ideia de escondermos sos detalhes de implementação de uma classe, ou seja, como o método faz o trabalho dele. 
++ Encapsulamento é o nome que damos a ideia de escondermos os detalhes de implementação de uma classe, ou seja, como o método faz o trabalho dele. 
 + A partir do momento que realizamos o encapsulamento de algum comportamento em uma classe e o expomos por meio de um método público, podemos se quisermos excluir toda a lógica presente e escrever outra sem que as classes clientes percebam.
-+ Se um código não está bem encapsulado, isso implica que em termos a regra de negócio espalhada por lugares diferentes. Logo, quando ocorrer uma mudança na regra de negócio e precisarmos propagar essas mudanças, iríamos precisar realizar várias alterações em diversas partes do código. 
++ Se um código não está bem encapsulado, isso implica que em temos a regra de negócio espalhada por lugares diferentes. Logo, quando ocorrer uma mudança na regra de negócio e precisarmos propagar essas mudanças, iríamos precisar realizar várias alterações em diversas partes do código. 
 ## Sistemas Legados
 + Códigos macarrônicos, algoritmos complexos e pouco performáticos, muitos bugs...
 + Para realizar alguma mudança não sabemos exatamente onde mexer ou o que mudar. 

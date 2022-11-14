@@ -20,5 +20,6 @@
     "pt-BR"
   ],
   "showUnsupportedFiles": true,
-  "trashOption": "none"
+  "trashOption": "none",
+  "legacyEditor": false
 }

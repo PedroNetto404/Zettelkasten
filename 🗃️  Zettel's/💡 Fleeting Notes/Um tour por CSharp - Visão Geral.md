@@ -1,13 +1,15 @@
 **Meta data**
-Note-type:: #Zettel/Fleeting
+Note-type:: #Zettel/NoteType/Fleeting
 Note-Status:: #Zettel/Status/Pending 
+Created-date:: 11-11-2022
+Created-time:: 16:24
+Liteturature-Note:: [[🗃️  Zettel's/📝 Literature Notes/Um tour por CSharp - Visão Geral]]
 Tags:: 
-Created:: 11-11-2022 16:24
 
 # Um tour por CSharp - Visão Geral
 ## Sobre a linguagem
 + Linguagem de programação
-	+  moderna
+	+ Moderna
 	+ fortemente tipada; 
 	+ Orientada a objetos
 + Orientada a objetos e componentes; 

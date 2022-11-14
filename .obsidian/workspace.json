@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️  Zettel's/💡 Fleeting Notes/6.7 - x Orientação a objetos para ninjas.md",
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/O encapsulamento e a propagação de mudanças.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8fc114c94a22214b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️  Zettel's/📝 Literature Notes/Herança, composição e LSP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "577443003ba61191",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️  Zettel's/📝 Literature Notes/O encapsulamento e a propagação de mudanças.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -39,7 +64,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -49,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ninjas",
+                "query": "tag:#Zettel/Fleeting",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,11 +91,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 312.5,
     "collapsed": true
   },
   "right": {
@@ -87,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️  Zettel's/💡 Fleeting Notes/6.7 - x Orientação a objetos para ninjas.md",
+                "file": "🗃️  Zettel's/📝 Literature Notes/Herança, composição e LSP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️  Zettel's/💡 Fleeting Notes/6.7 - x Orientação a objetos para ninjas.md",
+                "file": "🗃️  Zettel's/📝 Literature Notes/Herança, composição e LSP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️  Zettel's/💡 Fleeting Notes/6.7 - x Orientação a objetos para ninjas.md"
+                "file": "🗃️  Zettel's/📝 Literature Notes/Herança, composição e LSP.md"
               }
             }
           },
@@ -155,17 +181,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "20e33c3d57e3146d",
+  "active": "8fc114c94a22214b",
   "lastOpenFiles": [
-    "🗃️  Zettel's/💡 Fleeting Notes/Como usar o zettelkasten na prática.md",
-    "🗃️  Zettel's/💡 Fleeting Notes/1097 - Braintime. Não seja abduzido.md",
     "🗃️  Zettel's/💡 Fleeting Notes/O encapsulamento e a propagação de mudanças.md",
-    "🗃️  Zettel's/📝 Literature Notes/Aula SQL.md",
-    "🗃️  Zettel's/📝 Literature Notes/Aula wiliam 29.10.2022.md",
-    "🗃️  Zettel's/📝 Literature Notes/Orientação a objetos e SOLID para ninjas.md",
-    "🗃️  Zettel's/📝 Literature Notes/SOLID Vídeo Eduardo Pires.md",
-    "🗃️  Zettel's/📝 Literature Notes/Orientação a objetos - Livro.md",
-    "🗃️  Zettel's/📝 Literature Notes/Fleeting Notes Vs Literature Notes Vs Permanet Notes.md",
-    "🗃️  Zettel's/📝 Literature Notes/Curso 1 - Iniciando com ASP.NET Core.md"
+    "🗃️  Zettel's/📝 Literature Notes/O encapsulamento e a propagação de mudanças.md",
+    "🗃️  Zettel's/📝 Literature Notes/Um tour por CSharp - Visão Geral.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Um tour por CSharp - Visão Geral.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Arquitetura da plataforma .NET.md",
+    "📄 Templates/Literature Notes Template.md",
+    "📄 Templates/Fleeting Note Template.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Tecnologia da informação.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Tables.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Segurança de APIs.md"
   ]
 }
