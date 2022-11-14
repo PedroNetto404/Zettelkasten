@@ -1,25 +1,6 @@
 [
   "obsidian-kanban",
-  "sliding-panes-obsidian",
-  "obsidian-git",
-  "obsidian-mind-map",
-  "obsidian-day-planner",
-  "obsidian-checklist-plugin",
-  "obsidian-emoji-toolbar",
-  "obsidian-dictionary-plugin",
-  "obsidian-markmind",
-  "highlightr-plugin",
   "obsidian-excalidraw-plugin",
-  "obsidian-outliner",
   "table-editor-obsidian",
-  "obsidian-functionplot",
-  "obsidian-annotator",
-  "cm-editor-syntax-highlight-obsidian",
-  "code-block-copy",
-  "obsidian-linter",
-  "dataview",
-  "metaedit",
-  "supercharged-links-obsidian",
-  "obsidian-code-block-enhancer",
-  "obsidian-style-settings"
+  "dataview"
 ]

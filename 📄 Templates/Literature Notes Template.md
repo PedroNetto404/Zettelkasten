@@ -1,8 +1,8 @@
 **Meta data**
-Note-type:: #Zettel/Literature 
-Permanent-Note-Status:: #Zettel/Status/Pending
-Tags:: 
-Created:: {{date}} {{time}}
+Note-type:: #Zettel/NoteType/Literature 
+Note-Status:: #Zettel/Status/Pending
+Created-date:: {{date}} 
+Created-time:: {{time}}
 
 # {{title}}
 

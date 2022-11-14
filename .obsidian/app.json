@@ -1,5 +1,5 @@
 {
-  "promptDelete": true,
+  "promptDelete": false,
   "newFileLocation": "current",
   "newLinkFormat": "absolute",
   "showLineNumber": true,
@@ -19,5 +19,6 @@
   "spellcheckLanguages": [
     "pt-BR"
   ],
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "trashOption": "none"
 }
