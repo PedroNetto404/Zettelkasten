@@ -11,4 +11,8 @@ Aqui você encontra minhas anotações de aulas, livros, podcasts e etc. Todo ma
 + [Literature Notes](https://github.com/PedroNetto404/Zettelkasten/tree/main/%F0%9F%97%83%EF%B8%8F%20%20Zettel's/%F0%9F%93%9D%20Literature%20Notes); 
 + [Permanet Notes](); 
 
-## Se você utiliza o software [Obsidian](https://obsidian.md/), você pode encontrar meus templates aqui -> [Templates](https://github.com/PedroNetto404/Zettelkasten/tree/main/%F0%9F%93%84%20Templates)
+###### Se você utiliza o software [Obsidian](https://obsidian.md/), você pode encontrar meus templates aqui -> [Templates](https://github.com/PedroNetto404/Zettelkasten/tree/main/%F0%9F%93%84%20Templates)
+
+###### Conheça o método Zettelkasten
++ [Der Zettelkasten Niklas Luhmanns](https://niklas-luhmann-archiv.de/nachlass/zettelkasten) (em alemão)
++ [O método alemão de anotação que pode revolucionar seus estudos e trabalho — Método Zettelkasten](https://paulowagner.com/blog/o-metodo-alemao-de-anotacao-que-pode-revolucionar-seus-estudos-e-trabalho-metodo-zettelkasten/)
