@@ -1,5 +1,5 @@
 **Meta data**
-Note-type:: #Zettel/Fleeting
+Note-type:: #Zettel/NoteType/Fleeting
 Note-Status:: #Zettel/Status/Pending 
 Tags:: 
 Created-date:: 13-11-2022 

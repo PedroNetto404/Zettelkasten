@@ -1,7 +1,6 @@
 #  Intrudução
 ----
-**Type:** #FleetingNote
-**Topics:** #Segurança #Autenticação
+**Type:** #Zettel/NoteType/Fleeting
 **Related:** 
 **created:** 11-10-2022 13:39
 

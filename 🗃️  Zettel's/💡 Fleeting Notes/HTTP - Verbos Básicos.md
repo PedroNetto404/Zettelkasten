@@ -1,6 +1,6 @@
 
 ----
-**Type:** #FleetingNote
+**Type:** #Zettel/NoteType/Fleeting
 **Topics:**
 **Related:**
 **created:** 11-10-2022 20:55

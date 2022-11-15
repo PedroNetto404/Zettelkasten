@@ -3,9 +3,9 @@
 # Aula 17.10.2022 - BK Academy
 
 **Meta data**
-Note-type:: #FleetingNote 
-Note-Status:: #LiteratureDone  
-Tags::  #BancoDados #SQL 
+Note-type:: #Zettel/NoteType/Fleeting 
+Note-Status:: #Zettel/Status/Pending  
+Tags::  
 
 # Operador Like
 ## sintaxe

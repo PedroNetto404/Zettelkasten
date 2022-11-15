@@ -1,6 +1,6 @@
 **Meta data**
-Note-type:: #Zettel/Fleeting 
-Note-Status:: #Zettel/Status/LiteraturePending
+Note-type:: #Zettel/NoteType/Fleeting 
+Note-Status:: #Zettel/Status/Pending
 Tags:: 
 Created:: 31-10-2022 06:11
 # Introdução  à Ciência da Computação

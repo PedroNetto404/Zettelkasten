@@ -1,22 +1,44 @@
 {
   "collapse-filter": false,
-  "search": "",
-  "showTags": true,
-  "showAttachments": true,
-  "hideUnresolved": true,
-  "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [],
+  "search": "path:\"🗃️  Zettel's\"",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#Zettel/NoteType/Literature",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#Zettel/NoteType/Permanent",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#Zettel/NoteType/Fleeting",
+      "color": {
+        "a": 1,
+        "rgb": 6443744
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -3,
+  "textFadeMultiplier": 2,
   "nodeSizeMultiplier": 0.916666666666667,
   "lineSizeMultiplier": 1.58020833333333,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8706646598621616,
-  "close": false
+  "scale": 0.14524945874288447,
+  "close": true
 }

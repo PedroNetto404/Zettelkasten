@@ -1,7 +1,6 @@
 #  Aula 10.10.22
 ----
-**Type:** #FleetingNote
-**Topics:** #SQL #BancoDados #DDL
+**Type:** #Zettel/NoteType/Fleeting
 **Related:**
 **created:** 10-10-2022 14:18
 

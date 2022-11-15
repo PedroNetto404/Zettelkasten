@@ -1,7 +1,7 @@
 # WebHooks
 ## Infos
 created:: 04-10-2022 14:23
-status:: #zettel/fleeting
+status:: #Zettel/NoteType/Fleeting
 ## Notes
 + As notificações de evento são propagadas como solicitações HTTP POST que contêm informações sobre o evento em si.
 + Normalmente, a solicitação HTTP POST contém um objeto JSON ou dados de formulário HTML determinados pelo remetente do WebHook, incluindo informações sobre o evento que faz com que o WebHook seja disparado

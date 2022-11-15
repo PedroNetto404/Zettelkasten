@@ -1,6 +1,6 @@
 **Meta data**
-Note-type:: #LiteratureNote 
-Note-Status:: #PermanentNotePending  
+Note-type:: #Zettel/NoteType/Literature
+Note-Status:: #Zettel/Status/Pending  
 Tags:: 
 
 # BK Academy - Aula 17.10.2022

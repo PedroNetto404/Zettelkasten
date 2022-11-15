@@ -1,8 +1,8 @@
 # Snapshot
 created:: {{date}} {{time}}
-status:: #zettel/fleeting
-tags:: #learning/TI/DataScience 
-people:: #ProfGeraldo 
+status:: #Zettel/NoteType/Fleeting
+tags:: TI/DataScience 
+people::  
 + [[]]
 
 

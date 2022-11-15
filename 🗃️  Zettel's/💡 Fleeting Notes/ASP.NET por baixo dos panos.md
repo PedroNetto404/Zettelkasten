@@ -1,6 +1,6 @@
 #  ASP.NET por baixo dos panos
 ----
-**Type:** #FleetingNote
+**Type:** #Zettel/NoteType/Fleeting
 **Topics:**
 **Related:**
 **created:** 11-10-2022 18:25

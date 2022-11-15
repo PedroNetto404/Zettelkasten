@@ -1,9 +1,9 @@
 # Tipos de Dados
 ## Infos
 created:: 03-10-2022 16:32
-status:: #zettel/fleeting
-tags:: #TecnologiaDaInformacao/BancoDados
-people:: #ProfGeraldo
+status:: #Zettel/NoteType/Fleeting
+tags:: /BancoDados
+people:: 
 ## Notes
 + [[Tipos de dados numéricos]]
 + [[Tipos de dados de para strings]]

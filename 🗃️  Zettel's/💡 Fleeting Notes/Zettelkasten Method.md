@@ -1,6 +1,6 @@
 **Meta data**
-Note-type:: #FleetingNote 
-Note-Status:: #LiteratureNotePending 
+Note-type:: #Zettel/NoteType/Fleeting 
+Note-Status:: #Zettel/Status/Pending 
 Tags:: 
 Created:: 30-10-2022 17:31
 # Zettelkasten Method

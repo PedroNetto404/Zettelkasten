@@ -1,9 +1,9 @@
 # Esquemas de tabelas
 ## Infos
 created:: 03-10-2022 16:23
-status:: #zettel/fleeting
-tags:: #learning/TI/DataScience/DataBases  
-people:: #ProfGeraldo 
+status:: #Zettel/NoteType/Fleeting
+tags:: TI/DataScience/DataBases  
+people::  
 ## Notes
 +  Esquemas oferecem outro nível de contenção e organização dentro de um banco de dados; 
 + Forma de organização de objetos no database

@@ -1,9 +1,11 @@
 **Meta data**
-Note-type:: #Zettel/Permanent
+Previous-note::
+Next-note::
+Note-type:: #Zettel/NoteType/Permanent
 Note-Status:: #Zettel/Status/Pending  
+Created-date:: {{date}}
+Created-time:: {{time}}
 Tags:: 
-Created:: {{date}} {{time}}
-# # {{title}}
 
-# References
-1. 
+# # Conceito: {{title}}
+

@@ -47,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#LiteratureNotePending",
+                "query": "tag:#Zettel/Status/Pending",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,

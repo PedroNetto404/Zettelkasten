@@ -1,7 +1,3 @@
----
-link: https://www.notion.so/Contas-cont-bies-e-plano-de-contas-d8c9228010024df294c636283a5cf582
-notionID: d8c92280-1002-4df2-94c6-36283a5cf582
----
 **Meta data**
 Note-type:: #Zettel/NoteType/Fleeting
 Note-Status:: #Zettel/Status/Pending 

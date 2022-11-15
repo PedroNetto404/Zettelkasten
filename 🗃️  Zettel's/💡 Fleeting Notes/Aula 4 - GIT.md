@@ -1,6 +1,6 @@
 ---
-Type:: #FleetingNote 
-Status:: #LiteratureNotePending
+Type:: #Zettel/NoteType/Fleeting 
+Status:: #Zettel/Status/Pending
 Topics:: #Versionamento
 Related::
 created:: 08-10-2022 08:35

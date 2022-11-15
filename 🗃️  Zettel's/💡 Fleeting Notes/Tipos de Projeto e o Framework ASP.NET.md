@@ -1,9 +1,9 @@
 #  Tipos de Projeto e o Framework ASP.NET
 ----
 
-**Type:** #FleetingNote
-**Status:** #LiteratureNotePending
-**Topics:** #CSharp
+**Type:** #Zettel/NoteType/Fleeting
+**Status:** #Zettel/Status/Pending
+**Topics:** 
 **Related:**
 **created:** 07-10-2022 16:21
 

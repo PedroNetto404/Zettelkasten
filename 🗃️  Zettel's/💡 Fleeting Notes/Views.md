@@ -1,8 +1,7 @@
 **Meta data**
-Note-type:: #FleetingNote 
-Note-Status:: #LiteratureNotePending 
-Tags:: #ASPNET #DOTNET #CSharp
-
+Note-type:: #Zettel/NoteType/Fleeting 
+Note-Status:: #Zettel/Status/Pending 
+Tags:: 
 # Views
 ## Razor Sintax
 + No MVC o motor de renderização das views chama-se razor, logo níos temos as Razor Views que sçãi arquivos HTML mesclados com recursos razor; 

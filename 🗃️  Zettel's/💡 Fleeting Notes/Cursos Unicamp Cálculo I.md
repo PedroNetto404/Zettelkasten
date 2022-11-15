@@ -1,6 +1,6 @@
 **Meta data**
-Note-type:: #FleetingNote 
-Note-Status:: #LiteratureNotePending 
+Note-type:: #Zettel/NoteType/Fleeting 
+Note-Status:: #Zettel/Status/Pending 
 Tags:: 
 
 # Cursos Unicamp Cálculo I - Aula 1 - Introdução

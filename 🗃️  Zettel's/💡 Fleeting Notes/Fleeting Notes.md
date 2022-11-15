@@ -2,6 +2,6 @@
 ```dataview
 LIST
 FROM 
-	#FleetingNote
+	#Zettel/NoteType/Fleeting
 ```
 
