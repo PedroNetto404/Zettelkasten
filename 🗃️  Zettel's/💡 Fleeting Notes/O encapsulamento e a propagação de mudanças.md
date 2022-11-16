@@ -42,7 +42,8 @@ if(nf.getValorSemImposto() > 10000){
 } else {
 	valor = 0.12 * nf.getValor();
 }
-```
+
+
 ### Depois
 ```java
 NotaFiscal nf = new NotaFiscal(); 
@@ -96,11 +97,11 @@ A classe filha pode melhorar as pré-condições da classe pai, mas não as pós
 ## 6.4 Acoplamento entre a classe pai e a classe filha
 > Sempre que uma classe depende de outra para existir, é acoplamento. E dependendo da forma como essa acoplamento é feito, podemos ter problemas no futuro
 
-+ Devemos modelar hierarquias de herança quando as classes filhas iream precisar saber pouco dos detalhes da classe pai (ou não conhecer nada)
++ Devemos modelar hierarquias de herança quando as classes filhas irão precisar saber pouco dos detalhes da classe pai (ou não conhecer nada)
 + Devemos tentar ao máximo reduzir o acoplamento entre a classe pai e filhos
 + Podemos aplicar o conceito de enpasulamento nesses casos também. Se a classe filha conhece muitos detalhes de implementação da classe pai, essa não está bem encapsulada.
 
-+ Em composiações, a relação da classe principal com a classe dependida não é tã́o intima quanto a relação existente entre clases pai e filho, portanto, quebrar o encapsulamento é mais difícil; 
++ Em composições, a relação da classe principal com a classe dependida não é tã́o intima quanto a relação existente entre clases pai e filho, portanto, quebrar o encapsulamento é mais difícil; 
 	+ Composição nos trás mais flexibilidade;
 	+ Facilidade para testes automatizados
 

@@ -3,7 +3,7 @@ Note-type:: #Zettel/NoteType/Fleeting
 Note-Status:: #Zettel/Status/Pending 
 Created-date:: 14-11-2022
 Created-time:: 10:29
-Liteturature-Note:: 
+Liteturature-Note:: [[🗃️  Zettel's/📝 Literature Notes/Arquitetura da plataforma .NET]]
 Tags:: 
 
 # Arquitetura da plataforma .NET
@@ -80,7 +80,7 @@ Tags::
 + Código-fonte é compilado para IL, essa sendo interpretada pela CLR, que deverá passar pelas especificações CTS e CLS
 
 ## Metadados ou Metadata
-+ Um promagra feito na plataforma .NET não utiliza o registro do Windows por ser auto-autoexplicativo. As informações são armazenadas em metada data dentro de cada programa no momento da compilação.
++ Um programa feito na plataforma .NET não utiliza o registro do Windows por ser auto-autoexplicativo. As informações são armazenadas em metada data dentro de cada programa no momento da compilação.
 + As informações podem ser
 	+ Definição de classes, estruturas, tipos enumerados, que foram utilizados na aplicação, podendo esta ter sido gerada em forma de DLL ou executável.
 	+ Descrição dos membros: propriedades, métodos, eventos
