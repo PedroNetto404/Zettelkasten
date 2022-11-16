@@ -1,7 +1,7 @@
 **Meta data**
-Note-type:: #FleetingNote 
-Note-Status:: #LiteratureNoteDone 
-Tags:: #DesignCodigo #ModelagemSoftware #DesenvolvimentoSoftware
+Note-type:: #Zettel/NoteType/Fleeting 
+Note-Status:: #Zettel/Status/Done 
+Tags::
 
 # Solid na prática
 ## O que é SOLID? 

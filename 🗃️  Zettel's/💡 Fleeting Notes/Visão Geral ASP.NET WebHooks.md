@@ -1,7 +1,7 @@
 # Visão Geral ASP.NET WebHooks
 ## Infos
 created:: 04-10-2022 14:21
-status:: #zettel/fleeting
+status:: #Zettel/NoteType/Fleeting
 ## Notes
 [[WebHooks]]
 ## References

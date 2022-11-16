@@ -3,7 +3,7 @@ Note-type:: #Zettel/NoteType/Literature
 Note-Status:: #Zettel/Status/Pending
 Created-date:: 14-11-2022 
 Created-time:: 11:42
-Permanent-Note::
+Permanent-Note:: [[🗃️  Zettel's/Permanent Notes/Encapsulamento]]
 Tags::
 
 # O encapsulamento e a propagação de mudanças

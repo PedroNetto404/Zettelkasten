@@ -1,8 +1,8 @@
 # Fleeting Notes Vs Literature Notes Vs Permanet Notes
 LiteratureNote-Reference: [[🗃️  Zettel's/📝 Literature Notes/Fleeting Notes Vs Literature Notes Vs Permanet Notes]]
-Type:: #fleetingNote
-status:: #LiteratureNoteDone 
-Topics:: #Learning 
+Type:: #Zettel/NoteType/Fleeting
+status:: #Zettel/Status/Done 
+Topics::  
 Related-topics::
 created:: 07-10-2022 15:06
 

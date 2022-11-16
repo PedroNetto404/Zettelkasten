@@ -1,9 +1,9 @@
 # Tipo de dados de para strings
 ## Infos
 created:: 03-10-2022 16:38
-status:: #zettel/fleeting
-tags:: #TecnologiaDaInformacao/BancoDados
-people:: #ProfGeraldo
+status:: #Zettel/NoteType/Fleeting
+tags:: /BancoDados
+people:: 
 ## Notes
 +  ![[Slide50.JPG]]
 + ![[Slide51.JPG]]

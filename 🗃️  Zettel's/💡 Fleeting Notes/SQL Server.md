@@ -1,8 +1,8 @@
 # SQL Server
 created:: 03/10/2022 14:41
-status:: #zettel/fleeting
-tags:: #TecnologiaDaInformacao
-people:: #ProfGeraldo
+status:: #Zettel/NoteType/Fleeting
+tags:: 
+people:: 
 
 + [[Replicação de Dados]]
 + [[SQL Server Agent]]

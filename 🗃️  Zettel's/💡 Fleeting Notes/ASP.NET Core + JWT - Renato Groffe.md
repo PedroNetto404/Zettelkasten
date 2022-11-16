@@ -1,6 +1,6 @@
 ---
-note-type: #FleetingNote 
-note-status: #LiteratureNotePending 
+note-type: #Zettel/NoteType/Fleeting 
+note-status: #Zettel/Status/Pending 
 media-type: 
 date: 13-10-2022 13:44
 tags:

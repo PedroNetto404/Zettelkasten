@@ -1,6 +1,6 @@
 **Meta data**
-Note-type:: #FleetingNote 
-Note-Status:: #LiteratureNotePending 
+Note-type:: #Zettel/NoteType/Fleeting 
+Note-Status:: #Zettel/Status/Pending 
 Tags:: 
 Created:: 31-10-2022 14:37
 # Aula Sql 31.10.22

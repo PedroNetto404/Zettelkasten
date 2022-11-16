@@ -2,9 +2,9 @@
 ----
 
 **FleetingNote-Reference:** [[🗃️  Zettel's/💡 Fleeting Notes/Leituras/Articles/Aprendizado/Zettelkasten/Fleeting Notes Vs Literature Notes Vs Permanet Notes]]
-**Type:** #LiteratureNote 
-status:: #PermanentNotePending
-**Topics:** #Learning
+**Type:** #Zettel/NoteType/Literature
+status:: #Zettel/Status/Pending
+**Topics:** 
 **Related:** 
 **created:** 10-10-2022 09:12
 

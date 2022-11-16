@@ -1,7 +1,7 @@
 **Meta data**
 Note-type:: #Zettel/NoteType/Fleeting 
 Note-Status:: #Zettel/Status/Pending 
-Tags:: #POO #Abstracao
+Tags:: 
 
 # SOLID - Eduardo Pires
 ![[📂 Files/Image/Pasted image 20221025191116.png]]

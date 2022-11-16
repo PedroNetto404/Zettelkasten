@@ -1,7 +1,7 @@
 **Meta data**
-Note-type:: #LiteratureNote 
-Note-Status:: #PermanentNotePending 
-Tags:: #GeraldoHenriqueNeto
+Note-type:: #Zettel/NoteType/Literature
+Note-Status:: #Zettel/Status/Pending 
+Tags::
 # SQL
 
 # Tabelas

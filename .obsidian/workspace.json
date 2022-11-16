@@ -4,19 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "cb098b78ef164c8e",
+        "id": "5abd842ae1e94c85",
         "type": "tabs",
         "children": [
           {
-            "id": "848af65fc9c71642",
+            "id": "2fc38293966e7154",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🗃️  Zettel's/Permanent Notes/ASP.NET tempo de vida singleton.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5a494a35d0545e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️  Zettel's/Permanent Notes/Derivada.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2b41f643309ef99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️  Zettel's/Permanent Notes/Limite.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e18229ffe6ae69ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️  Zettel's/Permanent Notes/Ponto Crítico.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0cdceca3fb78d8bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️  Zettel's/Permanent Notes/Paradigma de Programação Orientada a objetos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f27c395a4302dc98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️  Zettel's/Permanent Notes/Paradigma de Programação Funcional.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "stacked": true
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -45,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#zettel/fleeting",
+                "query": "tag:#Zettel/NoteType",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,12 +126,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 408.5
+    "width": 312.5
   },
   "right": {
     "id": "d7cf15385b80dd96",
@@ -83,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🗃️  Zettel's/Permanent Notes/Paradigma de Programação Funcional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🗃️  Zettel's/Permanent Notes/Paradigma de Programação Funcional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,15 +185,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "a1897737f1832225",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
+              "state": {
+                "file": "🗃️  Zettel's/Permanent Notes/Paradigma de Programação Funcional.md"
+              }
             }
           },
           {
@@ -148,24 +207,24 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "71238f84db842ef4",
+  "active": "f27c395a4302dc98",
   "lastOpenFiles": [
-    "🗃️  Zettel's/💡 Fleeting Notes/O encapsulamento e a propagação de mudanças.md",
-    "🗃️  Zettel's/📝 Literature Notes/Herança, composição e LSP.md",
-    "🗃️  Zettel's/📝 Literature Notes/O encapsulamento e a propagação de mudanças.md",
-    "🗃️  Zettel's/💡 Fleeting Notes/Capítulo 9 - Maus Cheiros de design.md",
-    "🗃️  Zettel's/💡 Fleeting Notes/Fleeting - Orientação a objetos e SOLID para ninjas.md",
-    "🗃️  Zettel's/💡 Fleeting Notes/Arquitetura da plataforma .NET.md",
-    "🗃️  Zettel's/📝 Literature Notes/Arquitetura da plataforma .NET.md",
-    "🗃️  Zettel's/📝 Literature Notes/Orientação a objetos e SOLID para ninjas.md",
-    "🗃️  Zettel's/💡 Fleeting Notes/Um tour por CSharp - Visão Geral.md",
-    "📅 Daily/14-11-2022.md"
+    "🗃️  Zettel's/Permanent Notes/Ponto Crítico.md",
+    "🗃️  Zettel's/Permanent Notes/Paradigma de Programação Orientada a objetos.md",
+    "🗃️  Zettel's/Permanent Notes/Paradigma de Programação Funcional.md",
+    "🗃️  Zettel's/Permanent Notes/Limite.md",
+    "🗃️  Zettel's/Permanent Notes/Derivada.md",
+    "🗃️  Zettel's/Permanent Notes/ASP.NET tempo de vida singleton.md",
+    "🗃️  Zettel's/Permanent Notes/ASP.NET tempo de vida transiente.md",
+    "🗃️  Zettel's/Permanent Notes/ASP.NET tempo de vida Scoped.md",
+    "🗃️  Zettel's/Permanent Notes/Chave primária.md",
+    "🗃️  Zettel's/Permanent Notes/TCL.md"
   ]
 }

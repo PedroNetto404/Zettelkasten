@@ -1,6 +1,6 @@
 #  Segurança de APIs
 ----
-**Type:** #FleetingNote
+**Type:** #Zettel/NoteType/Fleeting
 **Topics:**
 **Related:**
 **created:** 11-10-2022 17:00

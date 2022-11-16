@@ -1,7 +1,7 @@
 # Método de Newton
 created:: 03-10-22 10:05
-status:: #zettel/fleeting
-tags:: #learning/matemática/cálculo
+status:: #Zettel/NoteType/Fleeting
+tags:: matemática/cálculo
 
 people:: 
 

@@ -1,9 +1,9 @@
 # Propriedades das colunas
 ## Infos
 created:: 03-10-2022 16:54
-status:: #zettel/fleeting
-tags:: #TecnologiaDaInformacao/BancoDados
-people:: #ProfGeraldo
+status:: #Zettel/NoteType/Fleeting
+tags:: /BancoDados
+people:: 
 ## Notes
 
 ## References
