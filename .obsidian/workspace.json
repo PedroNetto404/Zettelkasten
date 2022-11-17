@@ -4,83 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "5abd842ae1e94c85",
+        "id": "cb098b78ef164c8e",
         "type": "tabs",
         "children": [
           {
-            "id": "2fc38293966e7154",
+            "id": "a99e6bbbc39fe593",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️  Zettel's/Permanent Notes/ASP.NET tempo de vida singleton.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5a494a35d0545e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️  Zettel's/Permanent Notes/Derivada.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2b41f643309ef99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️  Zettel's/Permanent Notes/Limite.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e18229ffe6ae69ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️  Zettel's/Permanent Notes/Ponto Crítico.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0cdceca3fb78d8bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️  Zettel's/Permanent Notes/Paradigma de Programação Orientada a objetos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f27c395a4302dc98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️  Zettel's/Permanent Notes/Paradigma de Programação Funcional.md",
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/M11V16, M11V17 - Organizando a aplicação, Roteamento personalizado.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -109,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Zettel/NoteType",
+                "query": "tag:#Zettel/Status/Pending",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 408.5,
+    "collapsed": true
   },
   "right": {
     "id": "d7cf15385b80dd96",
@@ -146,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️  Zettel's/Permanent Notes/Paradigma de Programação Funcional.md",
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/M11V16, M11V17 - Organizando a aplicação, Roteamento personalizado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️  Zettel's/Permanent Notes/Paradigma de Programação Funcional.md",
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/M11V16, M11V17 - Organizando a aplicação, Roteamento personalizado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,8 +127,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️  Zettel's/Permanent Notes/Paradigma de Programação Funcional.md"
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/M11V16, M11V17 - Organizando a aplicação, Roteamento personalizado.md"
               }
+            }
+          },
+          {
+            "id": "a1897737f1832225",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
             }
           },
           {
@@ -207,24 +156,24 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "f27c395a4302dc98",
+  "active": "a99e6bbbc39fe593",
   "lastOpenFiles": [
-    "🗃️  Zettel's/Permanent Notes/Ponto Crítico.md",
-    "🗃️  Zettel's/Permanent Notes/Paradigma de Programação Orientada a objetos.md",
-    "🗃️  Zettel's/Permanent Notes/Paradigma de Programação Funcional.md",
-    "🗃️  Zettel's/Permanent Notes/Limite.md",
-    "🗃️  Zettel's/Permanent Notes/Derivada.md",
-    "🗃️  Zettel's/Permanent Notes/ASP.NET tempo de vida singleton.md",
-    "🗃️  Zettel's/Permanent Notes/ASP.NET tempo de vida transiente.md",
-    "🗃️  Zettel's/Permanent Notes/ASP.NET tempo de vida Scoped.md",
-    "🗃️  Zettel's/Permanent Notes/Chave primária.md",
-    "🗃️  Zettel's/Permanent Notes/TCL.md"
+    "🗃️  Zettel's/💡 Fleeting Notes/Aula Banco de Dados.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/M11V16, M11V17 - Organizando a aplicação, Roteamento personalizado.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Agregação, visualização e agrupamento.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/1097 - Braintime. Não seja abduzido.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/6.7 - x Orientação a objetos para ninjas.md",
+    "🗃️  Zettel's/Permanent Notes/Chave estrangeira.md",
+    "🗃️  Zettel's/Permanent Notes/DML.md",
+    "🗃️  Zettel's/Permanent Notes/HTTPS.md",
+    "🗃️  Zettel's/Permanent Notes/Host.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/O encapsulamento e a propagação de mudanças.md"
   ]
 }
