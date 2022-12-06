@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a99e6bbbc39fe593",
+            "id": "12ab5c8a710ce449",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️  Zettel's/💡 Fleeting Notes/M11V16, M11V17 - Organizando a aplicação, Roteamento personalizado.md",
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/Mediator Refactoring Guru.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Zettel/Status/Pending",
+                "query": "tag:#Zettel/NoteType/Fleeting",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.5,
-    "collapsed": true
+    "width": 326.5110321044922
   },
   "right": {
     "id": "d7cf15385b80dd96",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️  Zettel's/💡 Fleeting Notes/M11V16, M11V17 - Organizando a aplicação, Roteamento personalizado.md",
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/Mediator Refactoring Guru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️  Zettel's/💡 Fleeting Notes/M11V16, M11V17 - Organizando a aplicação, Roteamento personalizado.md",
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/Mediator Refactoring Guru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️  Zettel's/💡 Fleeting Notes/M11V16, M11V17 - Organizando a aplicação, Roteamento personalizado.md"
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/Mediator Refactoring Guru.md"
               }
             }
           },
@@ -163,17 +162,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a99e6bbbc39fe593",
+  "active": "12ab5c8a710ce449",
   "lastOpenFiles": [
+    "🗃️  Zettel's/💡 Fleeting Notes/Mediator Refactoring Guru.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Mediator Pattern Leo Prange.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/23.11 - Aula Banco.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Aula banco 21.11.md",
     "🗃️  Zettel's/💡 Fleeting Notes/Aula Banco de Dados.md",
-    "🗃️  Zettel's/💡 Fleeting Notes/M11V16, M11V17 - Organizando a aplicação, Roteamento personalizado.md",
-    "🗃️  Zettel's/💡 Fleeting Notes/Agregação, visualização e agrupamento.md",
-    "🗃️  Zettel's/💡 Fleeting Notes/1097 - Braintime. Não seja abduzido.md",
-    "🗃️  Zettel's/💡 Fleeting Notes/6.7 - x Orientação a objetos para ninjas.md",
-    "🗃️  Zettel's/Permanent Notes/Chave estrangeira.md",
-    "🗃️  Zettel's/Permanent Notes/DML.md",
-    "🗃️  Zettel's/Permanent Notes/HTTPS.md",
-    "🗃️  Zettel's/Permanent Notes/Host.md",
-    "🗃️  Zettel's/💡 Fleeting Notes/O encapsulamento e a propagação de mudanças.md"
+    "🗃️  Zettel's/Permanent Notes/Delegate.md",
+    "🗃️  Zettel's/Permanent Notes/Git commit.md",
+    "🗃️  Zettel's/Permanent Notes/Polimorfismo.md",
+    "🗃️  Zettel's/Permanent Notes/Paradigma de Programação Orientada a objetos.md",
+    "🗃️  Zettel's/Permanent Notes/SQL Constraints.md"
   ]
 }
