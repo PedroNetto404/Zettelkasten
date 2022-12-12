@@ -1,9 +1,9 @@
 **Meta data**
 Note-type:: #Zettel/NoteType/Fleeting
-Note-Status:: #Zettel/Status/Pending 
+Note-Status:: #Zettel/Status/Done
 Created-date:: 08-12-2022
 Created-time:: 10:50
-Liteturature-Note:: 
+Liteturature-Note:: [[🗃️  Zettel's/📝 Literature Notes/4/5 POO Book]]
 Tags:: 
 
 # Introdução a orientação a objetos

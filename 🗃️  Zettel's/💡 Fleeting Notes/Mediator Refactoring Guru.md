@@ -3,7 +3,7 @@ Note-type:: #Zettel/NoteType/Fleeting
 Note-Status:: #Zettel/Status/Pending 
 Created-date:: 02-12-2022
 Created-time:: 13:44
-Liteturature-Note:: 
+Liteturature-Note:: [[🗃️  Zettel's/📝 Literature Notes/Mediator Refactoring Guru]]
 Tags:: 
 
 # Mediator Refactoring Guru

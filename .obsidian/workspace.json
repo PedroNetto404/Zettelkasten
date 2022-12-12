@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f47a9c7bbc553973",
+            "id": "1653dfc283da23b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️  Zettel's/💡 Fleeting Notes/4 - Introdução a orientação a objetos.md",
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/Design Patterns - Eduardo Pires.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,9 +50,9 @@
               "type": "search",
               "state": {
                 "query": "tag:#Zettel/NoteType/Fleeting",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️  Zettel's/💡 Fleeting Notes/4 - Introdução a orientação a objetos.md",
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/Design Patterns - Eduardo Pires.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️  Zettel's/💡 Fleeting Notes/4 - Introdução a orientação a objetos.md",
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/Design Patterns - Eduardo Pires.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️  Zettel's/💡 Fleeting Notes/4 - Introdução a orientação a objetos.md"
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/Design Patterns - Eduardo Pires.md"
               }
             }
           },
@@ -162,17 +162,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f47a9c7bbc553973",
+  "active": "1653dfc283da23b8",
   "lastOpenFiles": [
-    "🗃️  Zettel's/💡 Fleeting Notes/POO Thiago Leite e Carvalho.md",
-    "Excalidraw/Drawing 2022-12-07 19.23.29.excalidraw.md",
-    "🗃️  Zettel's/💡 Fleeting Notes/Curso 3 Dev.IO REST com ASP.NET Core WebAPI.md",
-    "🗃️  Zettel's/💡 Fleeting Notes/Cap8 Princípios, padrões e práticas ágeis em CSharp.md",
-    "🗃️  Zettel's/Permanent Notes/ISP - Interface Segregation Principle.md",
-    "🗃️  Zettel's/Permanent Notes/Paradigma de Programação Orientada a objetos.md",
-    "🗃️  Zettel's/Permanent Notes/Paradigma de Programação Funcional.md",
-    "🗃️  Zettel's/Permanent Notes/OCP - Open Closed Principle.md",
-    "🗃️  Zettel's/Permanent Notes/Polimorfismo.md",
-    "🗃️  Zettel's/Permanent Notes/SQL Constraints.md"
+    "🗃️  Zettel's/💡 Fleeting Notes/Fundamentos de arquitetura de software.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/GTD - parte 1.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Mediator Tim Corey.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Os tipos de uma associação - agregação, composição e dependência.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/4 - Introdução a orientação a objetos.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/9 - Segurança no ASP.NET Identity.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/6.7 - x Orientação a objetos para ninjas.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Dominando o ASP.NET MVC 5.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Capítulo 6 - Os Conceitos Relacionais.md",
+    "🗃️  Zettel's/Permanent Notes/ASP.NET tempo de vida singleton.md"
   ]
 }

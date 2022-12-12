@@ -1,5 +1,5 @@
 **Meta data**
-Previous-note:: [[Abstração]]
+Previous-note:: [[🗃️  Zettel's/Permanent Notes/Abstração para OO]]
 Next-note:: [[Herança]]
 Note-type:: #Zettel/NoteType/Permanent
 Note-Status:: #Zettel/Status/Pending  
