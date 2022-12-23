@@ -1,0 +1,3 @@
+type:: adjetivo
+
++ Suficiente
