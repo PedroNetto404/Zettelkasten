@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "23020adf9ce1943f",
+            "id": "b287893984656f9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -176,17 +176,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "23020adf9ce1943f",
+  "active": "b287893984656f9b",
   "lastOpenFiles": [
-    "🗃️  Zettel's/💡 Fleeting Notes/Design Patterns Eduardo Pires Aula 1.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Java e Clean Architecture descomplicando arquitetura de software.md",
     "🗃️  Zettel's/💡 Fleeting Notes/Mergulhando nos padrões de projeto - Alexander Shvets.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Design Patterns Eduardo Pires Aula 1.md",
     "🗃️  Zettel's/Literature Notes/Mergulhando nos padrões de projeto - Alexander Shvets.md",
     "🗃️  Zettel's/💡 Fleeting Notes/Design Patterns Caelum.md",
     "Canvas/Dashboard.canvas",
     "🗃️  Zettel's/Fleeting Dashboard.md",
     "Canvas/Untitled.md",
     "Untitled.canvas",
-    "🗃️  Zettel's/💡 Fleeting Notes/Visão Geral Sobre o ASP.NET Core MVC.md",
-    "🗃️  Zettel's/💡 Fleeting Notes/Princípios de arquitetura.md"
+    "🗃️  Zettel's/💡 Fleeting Notes/Visão Geral Sobre o ASP.NET Core MVC.md"
   ]
 }
