@@ -74,13 +74,20 @@
 		+ Implementa a interface enquanto encobre o objeto do serviço 
 		+ Recebe chamadas do cliente através da interface do adaptador 
 			+ Traduz em chamadas para o objeto encobrido do serviço em um formato que ele possa entender. 
-	+ 
 
 #### Facade
 + Uma única classe que representa uma subsistema
-
+![[📂 Files/Image/Pasted image 20230103132236.png]]
++ 
 #### Composite
 + Compartilha um objeto em estruturas de árvores que representam hierarquias
++ ![[📂 Files/Image/Pasted image 20230103135021.png]]]
 ### Comportamentais
 + Interação e comunicação entre os objetos além da divisão de responsabilidades
-
+#### Command
++ encapsula um command request em um objeto
+![[📂 Files/Image/Pasted image 20230103140149.png]]
+#### Strategy
+![[📂 Files/Image/Pasted image 20230103160805.png]]
+#### Observer
+![[📂 Files/Image/Pasted image 20230103161812.png]]

@@ -1,0 +1,2 @@
+Em POO, podemos mesclas toda uma estrutura de dados com comportamentos que operam em cima dessas estruturas em componentes chamados de classes
+Objetos são materializações de classes. Eles são criados a partir de classe
