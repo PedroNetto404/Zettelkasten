@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d459862316e08767",
+            "id": "1aa951c76ac828b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️  Zettel's/💡 Fleeting Notes/DDD - Curso Eduardo Pires.md",
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/CSharp Nutchell Cap 1 Introducing CSharp and .NET.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 324.5,
+    "collapsed": true
   },
   "right": {
     "id": "d7cf15385b80dd96",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️  Zettel's/💡 Fleeting Notes/DDD - Curso Eduardo Pires.md",
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/CSharp Nutchell Cap 1 Introducing CSharp and .NET.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️  Zettel's/💡 Fleeting Notes/DDD - Curso Eduardo Pires.md",
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/CSharp Nutchell Cap 1 Introducing CSharp and .NET.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️  Zettel's/💡 Fleeting Notes/DDD - Curso Eduardo Pires.md"
+                "file": "🗃️  Zettel's/💡 Fleeting Notes/CSharp Nutchell Cap 1 Introducing CSharp and .NET.md"
               }
             }
           },
@@ -176,10 +177,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "d459862316e08767",
+  "active": "1aa951c76ac828b4",
   "lastOpenFiles": [
-    "🗃️  Zettel's/💡 Fleeting Notes/Modelagem Tática - Continuação.md",
     "🗃️  Zettel's/💡 Fleeting Notes/DDD - Curso Eduardo Pires.md",
+    "🗃️  Zettel's/💡 Fleeting Notes/Modelagem Tática - Continuação.md",
     "🗃️  Zettel's/💡 Fleeting Notes/Mergulhando nos padrões de projeto - Alexander Shvets.md",
     "🗃️  Zettel's/💡 Fleeting Notes/OOP Eduardo Pires.md",
     "🗃️  Zettel's/💡 Fleeting Notes/Design Patterns Eduardo Pires Aula 1.md",

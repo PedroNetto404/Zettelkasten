@@ -58,5 +58,31 @@ Tags::
 	1. Definição de qual será a arquitetura dos contextos e como eles vão se correlacionar
 ![[📂 Files/Image/Pasted image 20230105214917.png]]
 ![[📂 Files/Image/Pasted image 20230105215020.png]]
+
+5. Modelagem tática
+	1. Definimos agregações
+	2. Raizes de valor
+	3. Objetos de valor das agregações
+## Linguagem Ubíqua
++ Vocabulário de todos os termos específicos do domínio
+	+ Nomes, verbos, adjetivos, jargões, apelidos, expressões idiomáticas e advérbios
++ Compartilhado por todas as partes envolvidas no projeto
+	+ Primeiro passo para evitar desententimentos
++ Usadas em todos as formas faladas e escritas de comunicação
+	+ Linguagem universal de um negócio é feita dentro da empresa
+![[📂 Files/Image/Pasted image 20230106133359.png]]
+![[📂 Files/Image/Pasted image 20230106133748.png]]
+**Motivação**
++ Pessoas usam linguagens diferentes
+	+ Terminologias em comum
+		+ Extrair termos corretos
+		+ Ajudando os requisitos dos usuários fazerem mais sentido
+# Papéis dentro de um projeto
+## Domain Expert
++ Conhece do negócio, os processos e seus termos
++ Define novos termos, processo e regras
++ Tem conhecimento da operação
+## Time de desenvolvimento
++ Precisa de apoio do Domain Expert para entender o processo, e as terminologias de negócio
 ## References
 1. 
